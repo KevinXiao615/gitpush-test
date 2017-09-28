@@ -1,1 +1,2 @@
 This is a test.
+turn off crlf by setting 'core.autocrlf=false'
